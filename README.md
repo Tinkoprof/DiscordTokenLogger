@@ -1,2 +1,2 @@
 # DiscordTokenLogger
-bum
+Discord token logger
